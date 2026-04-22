@@ -1,0 +1,188 @@
+(footprint "LTST-E263CEGBK_LTO"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(tags "LTST-E263CEGBK ")
+	(property "Reference" "REF**"
+		(at 0.1 -1.9 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "1f0e078e-3064-4182-8750-03eee2ffad88")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "LTST-E263CEGBK_LTO"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "0c9b2987-6cb7-4c58-8a54-a30979355d3b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "88606e21-6e86-4a88-9e04-e10b185bca98")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "09f4d83d-1fe9-481b-991c-a4b9cb04b93c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_circle
+		(center -1.186217 -1.19503)
+		(end -1.110017 -1.19503)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "6c45dc28-f02c-45de-be3c-cd45c0275b2e")
+	)
+	(fp_rect
+		(start -1.2 -1.2)
+		(end 1.2 1.2)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "5a1ef2ef-a43c-43df-98f6-a59c2adf3065")
+	)
+	(fp_line
+		(start -0.9525 -0.9525)
+		(end -0.9525 0.9525)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d9851110-99da-45a8-92d0-57bf290e3e26")
+	)
+	(fp_line
+		(start -0.9525 0.9525)
+		(end 0.9525 0.9525)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d3cb9fb5-0de8-4cd0-a10c-84dd2b91cc33")
+	)
+	(fp_line
+		(start 0.9525 -0.9525)
+		(end -0.9525 -0.9525)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "fc659326-ff0f-4d2d-b921-b9a72f6212c1")
+	)
+	(fp_line
+		(start 0.9525 0.9525)
+		(end 0.9525 -0.9525)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a8075d88-9277-4eb4-aa8a-bcf008fb6818")
+	)
+	(fp_arc
+		(start 0.3048 -0.9525)
+		(mid 0 -0.6477)
+		(end -0.3048 -0.9525)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "16f40644-a3f9-403c-a3ca-ab6156a9725b")
+	)
+	(fp_circle
+		(center -0.1143 -0.52)
+		(end -0.1143 -0.52)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "1e5a13c8-a542-4e8a-adeb-cdf4aa0c5110")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "289f7556-d301-43fc-bd41-5163b630bed9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -0.4699 -0.519999)
+		(size 0.7112 0.7112)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "7ef6af49-407d-48dc-853b-898f011073ef")
+	)
+	(pad "2" smd rect
+		(at 0.4699 -0.519999)
+		(size 0.7112 0.7112)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "1d132344-0187-4918-9ac1-8e5afe0a432e")
+	)
+	(pad "3" smd rect
+		(at 0.4699 0.519999)
+		(size 0.7112 0.7112)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "7bc786d2-3595-45bf-b877-cf9dccafd52d")
+	)
+	(pad "4" smd rect
+		(at -0.4699 0.519999)
+		(size 0.7112 0.7112)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "7b4abb9e-03bc-43f5-9509-e5ba9aa5fc53")
+	)
+	(embedded_fonts no)
+	(model "/mnt/storage/Documents/BLDC_V2/Common/LTST-E263CEGBK_LTO.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)
