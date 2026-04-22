@@ -133,7 +133,7 @@
 		(uuid "8572375c-21b6-406e-b240-d3b3ee635c8f")
 	)
 	(embedded_fonts no)
-	(model "/home/nifley/Documents/BLDC_V2/Common/MR60PW-M.STEP"
+	(model "../kicad_common/3d/MR60PW-M.STEP"
 		(offset
 			(xyz 0 -8.15 4.2)
 		)

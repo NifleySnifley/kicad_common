@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP NTTFSSCH1D3N04XL
-D These Devices are PbFree, HalogenFree/BFRFree and are RoHS Compliant; Ultra Low Rds(on) to Improve System Efficiency; Low Qg and Capacitance to Minimize Driving and Switching Losses; Excellent Thermal Conduction by Advanced SourceDown Center Gate DualCooling Package Technology (3.3x3.3mm); Board level reliability (BLRT testing): 1000cycle with -40 to 125, 10min. dwell, 20/min, 6layers 2.35T
-K
-F https://www.onsemi.com/pub/Collateral/NTTFSSCH1D3N04XL-D.PDF
-$ENDCMP
-#
-#End Doc Library

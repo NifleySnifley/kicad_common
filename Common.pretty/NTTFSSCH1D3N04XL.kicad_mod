@@ -280,18 +280,7 @@
 		(uuid "47347144-b1f3-41cf-a99c-6c2e2d6c1218")
 	)
 	(embedded_fonts no)
-	(model "NTTFSSCH1D3N04XL.stp"
-		(offset
-			(xyz 0 0 0.5899999649)
-		)
-		(scale
-			(xyz 1 1 1)
-		)
-		(rotate
-			(xyz 0 0 0)
-		)
-	)
-	(model "/mnt/storage/Documents/BLDC_V2/Common/NTTFSSCH1D3N04XL.stp"
+	(model "../kicad_common/3d/NTTFSSCH1D3N04XL.stp"
 		(offset
 			(xyz 0 0 0.6)
 		)

@@ -174,7 +174,7 @@
 		(uuid "7b4abb9e-03bc-43f5-9509-e5ba9aa5fc53")
 	)
 	(embedded_fonts no)
-	(model "/mnt/storage/Documents/BLDC_V2/Common/LTST-E263CEGBK_LTO.step"
+	(model "../kicad_common/3d/LTST-E263CEGBK_LTO.step"
 		(offset
 			(xyz 0 0 0)
 		)

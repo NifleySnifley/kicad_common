@@ -1,4 +1,4 @@
-(footprint "DEK0015A-MFG"
+(footprint "INA790A"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "DEK0015A-MFG"
+	(property "Value" "INA790A"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
