@@ -28,7 +28,7 @@
 			)
 		)
 	)
-	(property "Datasheet" ""
+	(property "Datasheet" "https://www.mouser.com/datasheet/3/731/1/HVH_280_3P_6.5DS_CL0778_0700_0_00_Catalog_ed_HVH_280_Internal_CAT.pdf"
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
@@ -624,15 +624,15 @@
 		(uuid "f8154238-03e4-45ad-970a-dbefaea4e845")
 	)
 	(embedded_fonts no)
-	(model "HVH-280-3P-6.5DS.stp"
+	(model "../kicad_common/3d/HVH-280-3P-6.5DS.stp"
 		(offset
-			(xyz -2.249999966 -5.889999778 9.390000202)
+			(xyz -2.25 -5.89 5.39)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz -180 0 -180)
+			(xyz -180 -0 -180)
 		)
 	)
 )
